@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey, I'm Raghuttama 👋</h1>
 <p align="center">
   Full-Stack Dev | MERN Wizard 🧙‍♂️ | Building Smart + Scalable Stuff | Hackathons 💡 | AI x Web 🌐
 </p>
