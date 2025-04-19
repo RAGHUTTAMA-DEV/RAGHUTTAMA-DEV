@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @RAGHUTTAMA-DEV
-- 👀 I’m interested in CODING 
-- 🌱 I’m currently learning MERN STACK 
-- 💞️ I’m looking to collaborate on DEVEOPLMENT RELATED PROJECTS
-- 📫 How to reach me ...
+<h1 align="center">Hey, I'm [Your Name] 👋</h1>
+<p align="center">
+  Full-Stack Dev | MERN Wizard 🧙‍♂️ | Building Smart + Scalable Stuff | Hackathons 💡 | AI x Web 🌐
+</p>
 
-<!---
-RAGHUTTAMA-DEV/RAGHUTTAMA-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🧑‍💻 About Me
+
+- 🚀 Passionate full-stack developer (mostly MERN, Tailwind, shadcn/ui)
+- 🧠 Always learning: AI/ML, WebRTC, Three.js, Data Analytics
+- 🎯 Currently building:
+  - Quality Checklist Manager (manufacturing)
+  - AI-powered Music Remix & Learning Platform
+  - MERN Data Analytics App (Arquero + ML coming soon)
+- 🌱 Focused on open source & aiming for GSoC
+
+---
+
+### 🛠️ Tech I Use
+
+```js
+const stack = {
+  frontend: ['React', 'Next.js', 'Tailwind CSS', 'shadcn/ui'],
+  backend: ['Node.js', 'Express', 'MongoDB', 'PostgreSQL', 'Prisma'],
+  tools: ['VS Code', 'Postman', 'Figma', 'Vercel', 'Render'],
+  extras: ['WebSockets', 'AI/ML', 'Three.js', 'Phaser', 'Arquero']
+};
