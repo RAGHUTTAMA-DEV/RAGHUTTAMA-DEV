@@ -8,7 +8,7 @@
 ### 🧑‍💻 About Me
 
 - 🚀 Passionate full-stack developer (mostly MERN, Tailwind, shadcn/ui)
-- 🧠 Always learning: AI/ML, WebRTC, Three.js, Data Analytics
+- 🧠 Always learning: WebRTC, Three.js, Data Analytics
 - 🎯 Currently building:
   - Quality Checklist Manager (manufacturing)
   - AI-powered Music Remix & Learning Platform
