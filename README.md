@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is RAghuttama and I'm a Full Stack Developer
+<h2 align="left">Hi 👋! My name is Raghuttama and I'm a Full Stack Developer
 
 
 ###
