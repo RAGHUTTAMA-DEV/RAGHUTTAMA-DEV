@@ -53,11 +53,17 @@
 ### 📫 Let's Connect
 
 <div align="left">
-  <img src="[https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge](https://discord.com/channels/1263912990160457738/1342585390657437781)" height="35" alt="discord logo"  />
+  <a href="https://discord.com/users/1263912990160457738" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+
   <a href="mailto:raghuttama01@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
-  <img src="www.linkedin.com/in/raghuttama-k-g-806a7432b" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/raghuttama-k-g-806a7432b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
 ---
