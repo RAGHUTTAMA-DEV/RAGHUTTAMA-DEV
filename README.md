@@ -66,5 +66,4 @@
 
 ---
 
-<br clear="both">
 
