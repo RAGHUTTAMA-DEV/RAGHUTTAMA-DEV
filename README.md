@@ -1,69 +1,159 @@
-<h2 align="left">Hi 👋! My name is Raghuttama and I'm a Full Stack Developer</h2>
+<h1 align="center">Hi 👋, I'm Raghuttama</h1>
+
+<h3 align="center">
+Backend Engineer • Agentic AI Developer • Building Intelligent Systems
+</h3>
+
+<p align="center">
+I'm passionate about building scalable backend systems and production-ready Agentic AI applications that solve real-world problems.
+</p>
 
 ---
 
-🚀 I'm a passionate Full Stack Developer with hands-on experience in building scalable and impactful web applications.  
-🧠 I love breaking down complex problems into clean, intuitive, and high-performance solutions.  
-🎯 I specialize in **Next.js**, **TypeScript**, **Prisma**, **PostgreSQL**, and the full **MERN** ecosystem.  
-⚙️ I also build **AI-integrated systems**, real-time apps using **WebSockets/WebRTC**, and production-ready backend architectures.
+## 🚀 About Me
 
-🛠️ I’ve built projects across healthcare, education, disaster response, and smart systems — always focused on real-world impact.  
-🌱 **Currently deep-diving into DevOps, Kubernetes, Azure, CI/CD, and cloud automation** to level up my deployment and scalability game.  
-💡 I enjoy hackathons, mentoring juniors, and working on social-impact engineering.
+- 🔭 Currently building **Agentic AI Systems** using **LangGraph**, **LangChain**, MCP, RAG, and multi-agent workflows.
+- 🌱 Exploring **Distributed Systems**, **Kubernetes**, **Azure**, **Cloud Infrastructure**, and **AI Observability**.
+- 💡 Passionate about designing reliable backend architectures and intelligent automation.
+- ⚡ Love solving complex engineering problems with clean, scalable solutions.
+- 🎯 Goal: Build production-grade AI infrastructure that combines robust backend engineering with autonomous AI systems.
+
+---
+
+## 🤖 What I'm Currently Working On
+
+- 🧠 Agentic AI Applications
+- 🔄 Multi-Agent Systems
+- 🛠️ Tool Calling & MCP
+- 📚 Retrieval-Augmented Generation (RAG)
+- 📈 AI Observability & Evaluation
+- ⚙️ Workflow Automation with LangGraph
+- 🖥️ Local LLM Deployments
+- ☁️ Cloud-native AI Infrastructure
+
+---
+
+## 💻 Backend & Infrastructure
+
+- REST APIs
+- Authentication & Authorization
+- Database Design
+- Microservices
+- Event-Driven Architecture
+- Real-Time Systems
+- Background Workers & Queues
+- Caching Strategies
+- API Security
+- System Design
+- Docker & Kubernetes
+- CI/CD Pipelines
+- Cloud Deployments
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,java,c" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,bun" />
+</p>
+
+### AI & Agentic Frameworks
+
+<p>
+
+- LangGraph
+- LangChain
+- Model Context Protocol (MCP)
+- Ollama
+- OpenAI APIs
+- Gemini
+- Vector Databases
+- RAG Pipelines
+- AI Agents
+- Multi-Agent Systems
+
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions,prometheus,grafana,linux,nginx" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🏗 Things I Enjoy Building
+
+- 🤖 Autonomous AI Agents
+- 🧠 Multi-Agent Workflows
+- 📚 RAG Applications
+- ⚙️ Backend APIs
+- 🚀 Developer Tools
+- 🔌 AI Integrations
+- 📡 Real-Time Applications
+- ☁️ Cloud Native Systems
+- 📊 AI Evaluation Platforms
+- 🔍 Observability Dashboards
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RAGHUTTAMA-DEV&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHUTTAMA-DEV&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAGHUTTAMA-DEV&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn:https://www.linkedin.com/in/raghuttama-k-g-806a7432b/
+- 📧 Email: raghuttama01@gmail.com
 
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RAGHUTTAMA-DEV&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RAGHUTTAMA-DEV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+### 💭 Philosophy
+
+> **"Great AI systems aren't just about powerful models—they're built on reliable backend engineering, scalable infrastructure, and thoughtful system design."**
+
+Thanks for stopping by! ⭐
+
 </div>
-
----
-
-### 🧰 Tech Stack & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" />
-</div>
-
----
-
-### 📫 Let's Connect
-
-<div align="left">
-  <a href="https://discord.com/users/1263912990160457738" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="mailto:raghuttama01@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/raghuttama-k-g-806a7432b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
-
----
